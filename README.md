@@ -19,6 +19,7 @@ Temporal variation modeling is the common key problem of extensive analysis task
 <p align="center">
 <img src=".\pic\timesnet.png" height = "300" alt="" align=center />
 </p>
+
 ## General Representation Learning Capacity
 
 To demonstrate the model capacity in representation learning, we calculate the [CKA similarity](https://github.com/jayroxis/CKA-similarity) between representations from the bottom and top layer of each model. A smaller CKA similarity means that the representations of bottom and top layer are more distinct, indicating the hierarchical representations. From this representation analysis, We find that:
