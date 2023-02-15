@@ -1,4 +1,6 @@
 # TimesNet (ICLR 2023)
+**:triangular_flag_on_post: The complete code and scripts of TimesNet have been included in [[Time-Series-Library]](https://github.com/thuml/Time-Series-Library).**
+
 TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis [[paper]](https://openreview.net/pdf?id=ju_Uqw384Oq)
 
 <p align="center">
@@ -9,8 +11,6 @@ In this paper, we present TimesNet as a powerful foundation model for general ti
 
 - 🏆 Achieve the consistent state-of-the-art in five main-stream tasks: **Long- and Short-term Forecasting, Imputation, Anomaly Detection and Classification**.
 - 🌟 Directly take advantage of booming vision backbones by transforming the 1D time series into 2D space.
-
-**:triangular_flag_on_post: The complete code and scripts of TimesNet have been included in [[Time-Series-Library]](https://github.com/thuml/Time-Series-Library).**
 
 ## Temporal 1D-Variation vs. 2D-Variation
 
