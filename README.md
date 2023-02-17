@@ -1,7 +1,6 @@
-# TimesNet (ICLR 2023)
 # **:triangular_flag_on_post: The complete code and scripts of TimesNet have been included in [[Time-Series-Library]](https://github.com/thuml/Time-Series-Library).**
 
-TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis [[paper]](https://openreview.net/pdf?id=ju_Uqw384Oq)
+TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis [[ICLR 2023]](https://openreview.net/pdf?id=ju_Uqw384Oq)
 
 <p align="center">
 <img src=".\pic\overall.png" height = "300" alt="" align=center />
